@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fuzzy+Bubbles:wght@700&family=Moon+Dance&display=swap');
+
+.navbar-brand img{
+    height: 60px;
+    width: 80px;
+    margin-left:20px ;
+}
+.carousel-item img{
+    height: 500px;
+    object-fit: cover;
+   }
+
+span{
+    color: blue;
+}
+h1{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight:700;
+}
+.imgs{
+    padding-top: 120px;
+}
+.imgs img{
+
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    box-shadow: 10px 15px rgb(189, 187, 187);
+
+}
+.content1{
+    padding-top: 100px;
+}
+.content1 ul{
+    font-weight: 900;
+    font-size: 30px;
+}
+.content1 li{
+    font-weight: 700;
+    font-size: 20px;
+}
+.imgs1 img{
+
+    height: 150px;
+    width: 80%;
+    object-fit: cover;
+
+}
+.card-image{
+    height: 100px;
+    width: 100px;
+
+}
+
+.card-image{
+    border:2px solid rgb(155, 98, 98) ;
+    border-radius: 50px;
+}
+.cards {
+    border: 2px solid black;
+    background-color: rgb(154, 194, 247);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px){
+    .navbar-brand img{
+        height: 60px;
+        width: 80px;
+        margin-left:2px ;
+    }
+    .carousel-item h5{
+        display: none;
+    }
+
+    .carousel-item img{
+        height: 200px;
+    }
+    .content1{
+        padding-top: 50px;
+    }
+ 
+    
+ 
+}
+
+
+@media screen and (max-width:768px){
+    .carousel-item p{
+     display: none;
+    }
+    .carousel-item img{
+        height: 400px;
+    }
+    .content1{
+        padding-top: 75px;
+    }
+
+
+}

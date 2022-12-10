@@ -1,0 +1,139 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+.carousel-item img{
+    height: 80vh;
+    object-fit: cover;
+}
+
+span{
+    color: blue;
+}
+.content{
+    padding: 50px; 
+}
+.content ::first-letter{
+    font-size:50px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+.nav-item :hover{
+    border: dotted black 1px;
+    border-radius: 10px;
+    
+}
+.navhead{
+    height: 50px;
+}
+.container-fluid{
+    height: 100px;
+}
+.navbar-brand img{
+    height: 60px;
+    width: 80px;
+    margin-left:80px ;
+}
+.uses-content{
+    padding-top: 100px;
+}
+
+.imgs img{
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    box-shadow: 10px 15px rgb(189, 187, 187);
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.content1 ul{
+    font-weight: 900;
+    font-size: 30px;
+}
+.content1 li{
+    font-weight: 700;
+    font-size: 20px;
+}
+.content1{
+    padding-top: 100px;
+}
+.imgs1 img{
+    height: 300px;
+    width: 350px;
+    margin: 50px;
+    margin-left: 150px;
+    box-shadow: 5px 10px rgb(189, 187, 187);
+
+}
+.advan1{
+    padding-top: 40px;
+}
+.advan2{
+    padding-top: 40px;
+}
+.advan3{
+    padding-top: 50px;
+}
+.advan4{
+    padding-top: 50px;
+}
+.footer{
+    height: 60vh;
+    color: white;
+    padding-top: 50px;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+}
+.footer img{
+    height: 100px;
+    width: 180px;
+}
+.container-fluid2{
+    background-color: blue;
+    color: whitesmoke;
+    height: 10vh;
+}
+h2{
+    padding-bottom: 20px;
+}
+.post{
+    font-size: 10px;
+}
+
+.imgs2 img{
+    height: 400px;
+    width: 400px;
+    box-shadow: 10px 15px rgb(189, 187, 187);
+    margin-left: 100px;
+
+}
+.btn-advan{
+    padding: 10px;
+}
+.uses-content{
+    padding-top: 110px;
+}
+.uses-content2{
+    padding-top: 60px;
+}
+.uses-content3{
+    padding-top: 100px;
+}
+.card-image{
+    height: 100px;
+    width: 100px;
+}
+.container-fluid{
+    height: 60vh;
+    color: white;
+    padding-top: 50px;
+    
+}
